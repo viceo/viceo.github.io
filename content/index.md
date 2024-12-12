@@ -5,5 +5,5 @@ title = ''
 +++
 
 ```js
-let x = ['foo', 'bar']
+let x = ['foo', 'bar', true]
 ```
