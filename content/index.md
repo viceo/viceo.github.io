@@ -4,6 +4,8 @@ draft = true
 title = ''
 +++
 
-```js
-let x = ['foo', 'bar', true]
+```go
+func hello() string {
+    return "world"
+}
 ```
