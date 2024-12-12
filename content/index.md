@@ -5,7 +5,7 @@ title = ''
 +++
 
 ```go
-func hello() string {
-    return "world"
+func hello_world() string {
+    return "hello world"
 }
 ```
