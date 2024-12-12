@@ -1,5 +1,5 @@
 # Basic config
-baseURL = "https://www.viceo.mx"
+baseURL = "https://viceo.mx"
 theme = "hugo-bearcub"
 copyright = "Leopoldo Muñoz"
 defaultContentLanguage = "en"
