@@ -69,12 +69,12 @@ languageCode = "en-us"
 [languages]
   [languages.en]
     languageName = "English"
-    title = "Terminal"
+    title = "Leopoldo Muñoz - DevOps Engineer"
 
     [languages.en.params]
-      subtitle = "A simple, retro theme for Hugo"
-      owner = ""
-      keywords = ""
+      subtitle = "Personal Site / Portfolio / Blog"
+      owner = "Leopoldo Muñoz"
+      keywords = "devops,engineer,developer,it,specialist"
       copyright = ""
       menuMore = "Show more"
       readMore = "Read more"
@@ -87,7 +87,7 @@ languageCode = "en-us"
       words = "words"
 
       [languages.en.params.logo]
-        logoText = "Terminal"
+        logoText = "Leopoldo Muñoz"
         logoHomeLink = "/"
 
       [languages.en.menu]
