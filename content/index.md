@@ -5,6 +5,7 @@ title = ''
 +++
 
 ```go
+# This is a comment
 func hello_world() string {
     return "hello world"
 }
